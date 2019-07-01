@@ -562,7 +562,7 @@ msgid "QUICK SYSTEM SELECT"
 msgstr "SÉLECTION RAPIDE DU SYSTÈME"
 
 #: 
-msgid "THEME SET"
+msgid "THEME"
 msgstr "THÈME"
 
 #: 
