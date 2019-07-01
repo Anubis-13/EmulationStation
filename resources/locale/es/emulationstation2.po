@@ -558,8 +558,8 @@ msgid "QUICK SYSTEM SELECT"
 msgstr "SELECCIÓN RAPIDA DE SISTEMA"
 
 #: 
-msgid "THEME SET"
-msgstr "SISTEMA ESTABLECIDO"
+msgid "THEME"
+msgstr "TEMA"
 
 #: 
 msgid "SOUND SETTINGS"
