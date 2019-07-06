@@ -14,7 +14,7 @@ msgstr "Cargando..."
 
 #: 
 msgid "Preloading UI"
-msgstr "Precargando interfaz"
+msgstr "Iniciando..."
 
 #: 
 msgid "GRID SIZE"
@@ -30,7 +30,7 @@ msgstr "MODO INTERFAZ"
 
 #: 
 msgid "PRELOAD UI"
-msgstr "PRECARGA INTERFAZ"
+msgstr "PRECARGA UI"
 
 #: 
 msgid "VSYNC"
@@ -524,6 +524,10 @@ msgstr "OPCIONES DE INTERFAZ"
 #: 
 msgid "OVERSCAN"
 msgstr "OVERSCAN"
+
+#:
+msgid "LAUNCH SCREENSAVER"
+msgstr "SALVAPANTALLA"
 
 #: 
 msgid "SCREENSAVER SETTINGS"
